@@ -2,11 +2,11 @@
 Bird Classifier developped in tensorflow using pre-trained model from Tensorflow Hub and running on Google Colab
 
 ## Description
-This classifier runs using a pre-trained model available in Tensorflow Hub: https://tfhub.dev/google/aiy/vision/classifier/birds_V1/1
+This classifier runs using a pre-trained model based on MobileNet architecture and available in Tensorflow Hub: https://tfhub.dev/google/aiy/vision/classifier/birds_V1/1
 
 The model takes RGB images as input and predict the bird type out of 964 different species.
 
-The model was developped on google colab with tensorflow and benefits from cloud resources integration.
+The notebook was developped on google colab with tensorflow and benefits from cloud resources integration with tensorflow hub.
 
 # Installation
 
