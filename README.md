@@ -1,4 +1,4 @@
-# Bird_Classifier_Tensorflow
+# Bird_Classifier_Tensorflow_Colab_notebook
 Bird Classifier developped in tensorflow using pre-trained model from Tensorflow Hub and running on Google Colab
 
 ## Description
