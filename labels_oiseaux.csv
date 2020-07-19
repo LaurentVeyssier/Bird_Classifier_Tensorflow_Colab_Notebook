@@ -1,0 +1,966 @@
+﻿id;nom;name
+964;Pas d'oiseau identifié;background
+0;Roselin de Cassin;Cassin's Finch
+1;Courlan brun;Limpkin
+2;Rupornis magnirostris;Rupornis magnirostris
+3;Geai bleu;Blue Jay
+4;Geai de Steller;Steller's Jay
+5;Balearica regulorum;Balearica regulorum
+6;Moucherolle vermillon;Scarlet Flycatcher
+7;Avocette d'Amérique;American Avocet
+8;Ardeotis kori;Ardeotis kori
+9;Pie à bec jaune;Yellow-billed Magpie
+10;Mésangeai du Canada;Canada Jay
+11;Grue du Canada;Sandhill Crane
+12;Paruline des ruisseaux;Northern Waterthrush
+13;Ardea herodias occidentalis;Ardea herodias occidentalis
+14;Marouette de Caroline;Sora
+15;Anas platyrhynchos diazi;Anas platyrhynchos diazi
+16;Bergeronnette des ruisseaux;Grey Wagtail
+17;Moucherolle côtier;Pacific-slope Flycatcher
+18;Moucherolle tchébec;Least Flycatcher
+19;Moucherolle beige;Buff-breasted Flycatcher
+20;Moucherolle des saules;Willow Flycatcher
+21;Moucherolle de Hammond;Hammond's Flycatcher
+22;Empidonax occidentalis;Empidonax occidentalis
+23;Râle de Virginie;Virginia Rail
+24;Grue cendrée;Common Crane
+25;Quiscale des marais;Boat-tailed Grackle
+26;Bernache nonnette;Barnacle Goose
+27;Cyanocorax yucatanicus;Cyanocorax yucatanicus
+28;Cyanocorax yncas;Cyanocorax yncas
+29;Océanite de Wilson;Wilson's Storm Petrel
+30;Quiscalus niger;Quiscalus niger
+31;Geai enfumé;Brown Jay
+32;Megarynchus pitangua;Megarynchus pitangua
+33;Gallinula tenebrosa;Gallinula tenebrosa
+34;Gallus gallus domesticus;Gallus gallus domesticus
+35;Pintade de Numidie;Helmeted Guineafowl
+36;Junco hyemalis caniceps;Junco hyemalis caniceps
+37;Tyran de Cassin;Cassin's Kingbird
+38;Tyran tritri;Eastern Kingbird
+39;Tyran à longue queue;Scissor-tailed Flycatcher
+40;Tyran à bec épais;Thick-billed Kingbird
+41;Tyran de l'Ouest;Western Kingbird
+42;Tyran des savanes;Fork-tailed Flycatcher
+43;Gallirallus australis;Gallirallus australis
+44;Calocitta formosa;Calocitta formosa
+45;Calocitta colliei;Calocitta colliei
+46;Foulque d'Amérique;American Coot
+47;Bécarde à gorge rose;Rose-throated Becard
+48;Buse pattue;Rough-legged Buzzard
+49;Cygne noir;Black Swan
+50;Philesturnus rufusater;Philesturnus rufusater
+51;Goéland marin;Great Black-backed Gull
+52;Tyran quiquivi;Great Kiskadee
+53;Canard noir;American Black Duck
+54;Anthus novaeseelandiae novaeseelandiae;Anthus novaeseelandiae novaeseelandiae
+55;Moucherolle phébi;Eastern Phoebe
+56;Moucherolle noir;Black Phoebe
+57;Tityra semifasciata;Tityra semifasciata
+58;Dryocopus lineatus;Dryocopus lineatus
+59;Porphyrio melanotus;Porphyrio melanotus
+60;Anas bahamensis;Anas bahamensis
+61;Egretta novaehollandiae;Egretta novaehollandiae
+62;Anas crecca carolinensis;Anas crecca carolinensis
+63;Perdrix choukar;Chukar Partridge
+64;Grèbe minime;Least Grebe
+65;Bruant de Bell;Bell's Sparrow
+66;Coq bankiva;Red Junglefowl
+67;Cardinal pyrrhuloxia;Pyrrhuloxia
+68;Cardinal rouge;Northern Cardinal
+69;Bruant de Lincoln;Lincoln's Sparrow
+70;Grèbe à bec bigarré;Pied-billed Grebe
+71;Bruant des marais;Swamp Sparrow
+72;Dindon sauvage;Wild Turkey
+73;Meleagris ocellata;Meleagris ocellata
+74;Lagopède des saules;Willow Ptarmigan
+75;Bruant à menton noir;Black-chinned Sparrow
+76;Chocard à bec jaune;Alpine Chough
+77;Bruant de Brewer;Brewer's Sparrow
+78;Merlebleu azuré;Mountain Bluebird
+79;Bruant des champs;Field Sparrow
+80;Anas superciliosa;Anas superciliosa
+81;Bruant fauve;Red Fox Sparrow
+82;Phoenicopterus ruber;Phoenicopterus ruber
+83;Fauvette à tête noire;Eurasian Blackcap
+84;Viréo de Bell;Bell's Vireo
+85;Vireo plumbeus;Vireo plumbeus
+86;Viréo de Philadelphie;Philadelphia Vireo
+87;Viréo à gorge jaune;Yellow-throated Vireo
+88;Viréo à oeil rouge;Red-eyed Vireo
+89;Bruant à face noire;Harris's Sparrow
+90;Viréo de Hutton;Hutton's Vireo
+91;Bruant à gorge blanche;White-throated Sparrow
+92;Bruant à couronne dorée;Golden-crowned Sparrow
+93;Bruant jaune;Yellowhammer
+94;Garrot d'Islande;Barrow's Goldeneye
+95;Bruant des roseaux;Common Reed Bunting
+96;Viréo mélodieux;Warbling Vireo
+97;Serin cini;European Serin
+98;Serinus mozambicus;Serinus mozambicus
+99;Faisan leucomèle;Kalij Pheasant
+100;Euphonia elegantissima;Euphonia elegantissima
+101;Euphonia hirundinacea;Euphonia hirundinacea
+102;Euphonia affinis;Euphonia affinis
+103;Carouge de Californie;Tricolored Blackbird
+104;Momotus lessonii;Momotus lessonii
+105;Zostérops du Japon;Warbling White-eye
+106;Cormoran pélagique;Pelagic Cormorant
+107;Oriole masqué;Hooded Oriole
+108;Oriole d'Audubon;Audubon's Oriole
+109;Bergeronnette pie;African Pied Wagtail
+110;Anas superciliosa Ã— platyrhynchos;Anas superciliosa Ã— platyrhynchos
+111;Oriole à dos rayé;Streak-backed Oriole
+112;Oriole à gros bec;Altamira Oriole
+113;Carduelis cannabina;Carduelis cannabina
+114;Grive à joues grises;Grey-cheeked Thrush
+115;Râle à poitrine blanche;White-breasted Waterhen
+116;Pavo cristatus;Pavo cristatus
+117;Rallus crepitans;Rallus crepitans
+118;Nestor meridionalis septentrionalis;Nestor meridionalis septentrionalis
+119;Tohi à queue verte;Green-tailed Towhee
+120;Tohi tacheté;Spotted Towhee
+121;Tohi à flancs roux;Eastern Towhee
+122;Cairina moschata domestica;Cairina moschata domestica
+123;Phalacrocorax varius;Phalacrocorax varius
+124;Picoides dorsalis;Picoides dorsalis
+125;Picoides nuttallii;Picoides nuttallii
+126;Picoides scalaris;Picoides scalaris
+127;Colin de Gambel;Gambel's Quail
+128;Bouvreuil pivoine;Eurasian Bullfinch
+129;Cormoran vigua;Neotropic Cormorant
+130;Picoides pubescens;Picoides pubescens
+131;Colin de Virginie;Northern Bobwhite
+132;Sporophile à col blanc;Cinnamon-rumped Seedeater
+133;Picoides villosus;Picoides villosus
+134;Bécasseau semipalmé;Semipalmated Sandpiper
+135;Pic à dos noir;Black-backed Woodpecker
+136;Fuligule milouinan;Greater Scaup
+137;Phaéton à bec rouge;Red-billed Tropicbird
+138;Sturnelle des prés;Eastern Meadowlark
+139;Perruche ondulée;Budgerigar
+140;Fuligule à tête noire;Lesser Scaup
+141;Aythya novaeseelandiae;Aythya novaeseelandiae
+142;Colin arlequin;Montezuma Quail
+143;Pélican brun;Brown Pelican
+144;Cincle plongeur;White-throated Dipper
+145;Chen rossii;Chen rossii
+146;Colin de Californie;California Quail
+147;Quiscale bronzé;Common Grackle
+148;Quiscale à longue queue;Great-tailed Grackle
+149;Colin écaillé;Scaled Quail
+150;Grand Pic;Pileated Woodpecker
+151;Guiraca bleu;Blue Grosbeak
+152;Ariane béryl;Berylline Hummingbird
+153;Paruline masquée;Common Yellowthroat
+154;Trogon melanocephalus;Trogon melanocephalus
+155;Fauvette grisette;Common Whitethroat
+156;Durbec des sapins;Pine Grosbeak
+157;Coccothraustes vespertinus;Coccothraustes vespertinus
+158;Grosbec casse-noyaux;Hawfinch
+159;Paruline à ailes dorées;Golden-winged Warbler
+160;Opisthocomus hoazin;Opisthocomus hoazin
+161;Setophaga coronata coronata;Setophaga coronata coronata
+162;Diglossa baritula;Diglossa baritula
+163;Saltator coerulescens;Saltator coerulescens
+164;Saltator atriceps;Saltator atriceps
+165;Sicalis flaveola;Sicalis flaveola
+166;Canard mandarin;Mandarin Duck
+167;Junco hyemalis hyemalis;Junco hyemalis hyemalis
+168;Eupsittula canicularis;Eupsittula canicularis
+169;Microcarbo melanoleucos;Microcarbo melanoleucos
+170;Tangara vermillon;Summer Tanager
+171;Tangara écarlate;Scarlet Tanager
+172;Piranga flava;Piranga flava
+173;Bruant à gorge noire;Black-throated Sparrow
+174;Larus dominicanus;Larus dominicanus
+175;Piaya cayana;Piaya cayana
+176;Bruant à calotte fauve;Rufous-crowned Sparrow
+177;Pic de Lewis;Lewis's Woodpecker
+178;Pic des saguaros;Gila Woodpecker
+179;Bruant des prés;Savannah Sparrow
+180;Melanerpes pucherani;Melanerpes pucherani
+181;Troglodyte des rochers;Rock Wren
+182;Pic à ventre roux;Red-bellied Woodpecker
+183;Melanerpes chrysogenys;Melanerpes chrysogenys
+184;Pic glandivore;Acorn Woodpecker
+185;Pic flamboyant;Northern Flicker
+186;Paruline à calotte rousse;Rufous-capped Warbler
+187;Goéland leucophée;Yellow-legged Gull
+188;Ramphocelus passerinii;Ramphocelus passerinii
+189;Chevêche des terriers;Burrowing Owl
+190;Bernache de Hutchins;Cackling Goose
+191;Pinson du Nord;Brambling
+192;Pinson des arbres;Common Chaffinch
+193;Junco ardoisé;Dark-eyed Junco
+194;Coucou gris;Common Cuckoo
+195;Junco aux yeux jaunes;Yellow-eyed Junco
+196;Bruant de Nelson;Nelson's Sparrow
+197;Bruant sauterelle;Grasshopper Sparrow
+198;Bruant maritime;Seaside Sparrow
+199;Coulicou à bec noir;Black-billed Cuckoo
+200;Coulicou manioc;Mangrove Cuckoo
+201;Coulicou à bec jaune;Yellow-billed Cuckoo
+202;Cassenoix d'Amérique;Clark's Nutcracker
+203;Ani à bec cannelé;Groove-billed Ani
+204;Bruant vespéral;Vesper Sparrow
+205;Tohi olive;Olive Sparrow
+206;Grand Géocoucou;Greater Roadrunner
+207;Geococcyx velox;Geococcyx velox
+208;Sucrier à ventre jaune;Bananaquit
+209;Passerin nonpareil;Painted Bunting
+210;Alectura lathami;Alectura lathami
+211;Passerina leclancherii;Passerina leclancherii
+212;Passerin azuré;Lazuli Bunting
+213;Paruline polyglotte;Yellow-breasted Chat
+214;Crax rubra;Crax rubra
+215;Penelope purpurascens;Penelope purpurascens
+216;Copsychus malabaricus;Copsychus malabaricus
+217;Paroaria capitata;Paroaria capitata
+218;Cyanerpes cyaneus;Cyanerpes cyaneus
+219;Microcarbo melanoleucos brevirostris;Microcarbo melanoleucos brevirostris
+220;Pic de Williamson;Williamson's Sapsucker
+221;Cardinal à poitrine rose;Rose-breasted Grosbeak
+222;Pic à poitrine rouge;Red-breasted Sapsucker
+223;Cardinal à tête noire;Black-headed Grosbeak
+224;Pic à nuque rouge;Red-naped Sapsucker
+225;Ortalis poliocephala;Ortalis poliocephala
+226;Ortalide chacamel;Plain Chachalaca
+227;Corbeau pie;Pied Crow
+228;Paruline noir et blanc;Black-and-white Warbler
+229;Volatinia jacarina;Volatinia jacarina
+230;Thraupis palmarum;Thraupis palmarum
+231;Momotus mexicanus;Momotus mexicanus
+232;Quiscale de Brewer;Brewer's Blackbird
+233;Cacatua galerita;Cacatua galerita
+234;Junco hyemalis oreganus;Junco hyemalis oreganus
+235;Pluvier fauve;Pacific Golden Plover
+236;Vacher bronzé;Bronzed Cowbird
+237;Vacher à tête brune;Brown-headed Cowbird
+238;Merops pusillus;Merops pusillus
+239;Guêpier d'Europe;European Bee-eater
+240;Pteroglossus torquatus;Pteroglossus torquatus
+241;Bec-croisé des sapins;Red Crossbill
+242;Guêpier d'Orient;Green Bee-eater
+243;Bec-croisé bifascié;Two-barred Crossbill
+244;Rollier d'Europe;European Roller
+245;Coracias caudatus;Coracias caudatus
+246;Rollier indien;Indian Roller
+247;Carouge à tête jaune;Yellow-headed Blackbird
+248;Bruant à joues marron;Lark Sparrow
+249;Goglu des prés;Bobolink
+250;Balbuzard pêcheur;Western Osprey
+251;Phénopèple luisant;Phainopepla
+252;Tyran de Couch;Couch's Kingbird
+253;Pouillot véloce;Common Chiffchaff
+254;Circus cyaneus hudsonius;Circus cyaneus hudsonius
+255;Grallina cyanoleuca;Grallina cyanoleuca
+256;Bruant des neiges;Snow Bunting
+257;Bruant noir et blanc;Lark Bunting
+258;Roitelet à couronne rubis;Ruby-crowned Kinglet
+259;Roitelet triple-bandeau;Common Firecrest
+260;Roitelet huppé;Goldcrest
+261;Roitelet à couronne dorée;Golden-crowned Kinglet
+262;Tyran mélancolique;Tropical Kingbird
+263;Pelecanus conspicillatus;Pelecanus conspicillatus
+264;Aulacorhynchus prasinus;Aulacorhynchus prasinus
+265;Todiramphus sanctus;Todiramphus sanctus
+266;Oriole à ailes blanches;Bullock's Oriole
+267;Dickcissel d'Amérique;Dickcissel
+268;Tyran gris;Grey Kingbird
+269;Guifette noire;Black Tern
+270;Oriturus superciliosus;Oriturus superciliosus
+271;Psarocolius montezuma;Psarocolius montezuma
+272;Grive litorne;Fieldfare
+273;Notiomystis cincta;Notiomystis cincta
+274;Sagittarius serpentarius;Sagittarius serpentarius
+275;Perruche à collier;Rose-ringed Parakeet
+276;Platycercus eximius;Platycercus eximius
+277;Paruline orangée;Prothonotary Warbler
+278;Martin-pêcheur à ventre roux;Ringed Kingfisher
+279;Nestor meridionalis;Nestor meridionalis
+280;Amazone à joues vertes;Red-crowned Amazon
+281;Amazona albifrons;Amazona albifrons
+282;Amazona oratrix;Amazona oratrix
+283;Tarier des prés;Whinchat
+284;Ara militaris;Ara militaris
+285;Bruant hudsonien;American Tree Sparrow
+286;Martin-pêcheur pie;Pied Kingfisher
+287;Chloroceryle aenea;Chloroceryle aenea
+288;Chloroceryle amazona;Chloroceryle amazona
+289;Myiozetetes similis;Myiozetetes similis
+290;Moqueur à bec courbe;Curve-billed Thrasher
+291;Martin-pêcheur d'Amérique;Belted Kingfisher
+292;Alouette haussecol;Horned Lark
+293;Alisterus scapularis;Alisterus scapularis
+294;Cinnyris jugularis;Cinnyris jugularis
+295;Xiphorhynchus flavigaster;Xiphorhynchus flavigaster
+296;Jacana jacana;Jacana jacana
+297;Phalarope à bec large;Red Phalarope
+298;Tourterelle des bois;European Turtle Dove
+299;Pica hudsonia;Pica hudsonia
+300;Corneille mantelée;Hooded Crow
+301;Conure veuve;Monk Parakeet
+302;Tourterelle turque;Eurasian Collared Dove
+303;Tangara à tête rouge;Western Tanager
+304;Petit Blongios;Least Bittern
+305;Auripare verdin;Verdin
+306;Paruline des buissons;MacGillivray's Warbler
+307;Pigeon biset;Rock Dove
+308;Paruline à capuchon;Hooded Warbler
+309;Paruline azurée;Cerulean Warbler
+310;Pigeon ramier;Common Wood Pigeon
+311;Piranga bidentata;Piranga bidentata
+312;Pigeon à couronne blanche;White-crowned Pigeon
+313;Pigeon à queue barrée;Band-tailed Pigeon
+314;Pigeon à bec rouge;Red-billed Pigeon
+315;Paruline des prés;Prairie Warbler
+316;Engoulevent d'Amérique;Common Nighthawk
+317;Engoulevent minime;Lesser Nighthawk
+318;Spatule blanche;Eurasian Spoonbill
+319;Engoulevent de Nuttall;Common Poorwill
+320;Roselin familier;House Finch
+321;Roselin pourpré;Purple Finch
+322;Engoulevent pauraqué;Pauraque
+323;Campephilus guatemalensis;Campephilus guatemalensis
+324;Moqueur roux;Brown Thrasher
+325;Colombe de Verreaux;White-tipped Dove
+326;Nyctibius jamaicensis;Nyctibius jamaicensis
+327;Anas penelope;Anas penelope
+328;Buteo plagiatus;Buteo plagiatus
+329;Colibri calliope;Calliope Hummingbird
+330;Petit-duc des montagnes;Western Screech Owl
+331;Porphyrio poliocephalus;Porphyrio poliocephalus
+332;Petit-duc maculé;Eastern Screech Owl
+333;Zenaida auriculata;Zenaida auriculata
+334;Hymenolaimus malacorhynchos;Hymenolaimus malacorhynchos
+335;Paruline bleue;Black-throated Blue Warbler
+336;Tyranneau imberbe;Northern Beardless Tyrannulet
+337;Caracara plancus;Caracara plancus
+338;Colombe à queue noire;Common Ground Dove
+339;Eupsittula nana;Eupsittula nana
+340;Nestor notabilis;Nestor notabilis
+341;Colombe rousse;Ruddy Ground Dove
+342;Geopelia striata;Geopelia striata
+343;Chevêche d'Athéna;Little Owl
+344;Ani à bec lisse;Smooth-billed Ani
+345;Merlebleu de l'Est;Eastern Bluebird
+346;Spatule d'Afrique;African Spoonbill
+347;Grand-duc d'Amérique;Great Horned Owl
+348;Hirondelle à front brun;Cave Swallow
+349;Hirondelle noire;Purple Martin
+350;Setophaga coronata auduboni;Setophaga coronata auduboni
+351;Hirundo neoxena;Hirundo neoxena
+352;Hirondelle rustique;Barn Swallow
+353;Bécasseau du ressac;Surfbird
+354;Combattant varié;Ruff
+355;Platalea regia;Platalea regia
+356;Hirondelle à face blanche;Violet-green Swallow
+357;Bostrychia hagedash;Bostrychia hagedash
+358;Hirondelle de rivage;Sand Martin
+359;Ibis blanc;American White Ibis
+360;Ibis falcinelle;Glossy Ibis
+361;Ibis à face blanche;White-faced Ibis
+362;Grand Corbeau;Northern Raven
+363;Hirondelle à ailes hérissées;Northern Rough-winged Swallow
+364;Fou masqué;Masked Booby
+365;Fou à pieds rouges;Red-footed Booby
+366;Fou brun;Brown Booby
+367;Morus serrator;Morus serrator
+368;Eudyptula minor;Eudyptula minor
+369;Megadyptes antipodes;Megadyptes antipodes
+370;Ombrette africaine;Hamerkop
+371;Troglodyte mignon;Eurasian Wren
+372;Bécasseau maubèche;Red Knot
+373;Pie-grièche écorcheur;Red-backed Shrike
+374;Bécasseau de Baird;Baird's Sandpiper
+375;Meleagris gallopavo intermedia;Meleagris gallopavo intermedia
+376;Bécasseau d'Alaska;Western Sandpiper
+377;Bécasseau violet;Purple Sandpiper
+378;Bécasseau variable;Dunlin
+379;Bécasseau cocorli;Curlew Sandpiper
+380;Bécasseau tacheté;Pectoral Sandpiper
+381;Bécassin à bec court;Short-billed Dowitcher
+382;Malurus cyaneus;Malurus cyaneus
+383;Chevalier aboyeur;Common Greenshank
+384;Todiramphus sanctus vagans;Todiramphus sanctus vagans
+385;Chevalier culblanc;Green Sandpiper
+386;Chevalier sylvain;Wood Sandpiper
+387;Chevalier criard;Greater Yellowlegs
+388;Chevalier à pattes jaunes;Lesser Yellowlegs
+389;Courlis cendré;Eurasian Curlew
+390;Courlis corlieu;Eurasian Whimbrel
+391;Phalacrocorax carbo novaehollandiae;Phalacrocorax carbo novaehollandiae
+392;Petroica macrocephala macrocephala;Petroica macrocephala macrocephala
+393;Petroica australis longipes;Petroica australis longipes
+394;Prosthemadera novaeseelandiae novaeseelandiae;Prosthemadera novaeseelandiae novaeseelandiae
+395;Hibou des marais;Short-eared Owl
+396;Rhipidura fuliginosa fuliginosa;Rhipidura fuliginosa fuliginosa
+397;Bécasse d'Amérique;American Woodcock
+398;Tournepierre à collier;Ruddy Turnstone
+399;Tournepierre noir;Black Turnstone
+400;Rhipidura fuliginosa placabilis;Rhipidura fuliginosa placabilis
+401;Barge à queue noire;Black-tailed Godwit
+402;Barge hudsonienne;Hudsonian Godwit
+403;Barge marbrée;Marbled Godwit
+404;Phalarope à bec étroit;Red-necked Phalarope
+405;Bartramie des champs;Upland Sandpiper
+406;Barge rousse;Bar-tailed Godwit
+407;Petite Nyctale;Northern Saw-whet Owl
+408;Chevalier guignette;Common Sandpiper
+409;Trichoglossus haematodus;Trichoglossus haematodus
+410;Chouette épervière;Northern Hawk-Owl
+411;Gobemoucheron gris-bleu;Blue-grey Gnatcatcher
+412;Bruant familier;Chipping Sparrow
+413;Bulbul orphée;Red-whiskered Bulbul
+414;Passerin indigo;Indigo Bunting
+415;Passerin varié;Varied Bunting
+416;Manorina melanocephala;Manorina melanocephala
+417;Ocyphaps lophotes;Ocyphaps lophotes
+418;Jabiru d'Amérique;Jabiru
+419;Bulbul à ventre rouge;Red-vented Bulbul
+420;Anser cygnoides domesticus;Anser cygnoides domesticus
+421;Pic vert;European Green Woodpecker
+422;Albatros à pieds noirs;Black-footed Albatross
+423;Autruche d'Afrique;Common Ostrich
+424;Albatros de Laysan;Laysan Albatross
+425;Fulmar boréal;Northern Fulmar
+426;Francolin gris;Grey Francolin
+427;Colibri circé;Broad-billed Hummingbird
+428;Grèbe à cou noir;Black-necked Grebe
+429;Grèbe huppé;Great Crested Grebe
+430;Grèbe esclavon;Horned Grebe
+431;Pic épeiche;Great Spotted Woodpecker
+432;Grèbe jougris;Red-necked Grebe
+433;Grèbe castagneux;Little Grebe
+434;Gravelot montagnard;Mountain Plover
+435;Cormoran à aigrettes;Double-crested Cormorant
+436;Grand Cormoran;Great Cormorant
+437;Cormoran de Brandt;Brandt's Cormorant
+438;Grèbe à face blanche;Clark's Grebe
+439;Pélican blanc;Great White Pelican
+440;Pélican d'Amérique;American White Pelican
+441;Tourterelle triste;Mourning Dove
+442;Vanellus miles;Vanellus miles
+443;Goéland d'Audubon;Western Gull
+444;Trogon massena;Trogon massena
+445;Larus thayeri;Larus thayeri
+446;Goéland de Heermann;Heermann's Gull
+447;Goéland de Cortez;Yellow-footed Gull
+448;Goéland cendré;Mew Gull
+449;Goéland à ailes blanches;Iceland Gull
+450;Goéland à bec cerclé;Ring-billed Gull
+451;Trogon collaris;Trogon collaris
+452;Tourterelle à ailes blanches;White-winged Dove
+453;Goéland brun;Lesser Black-backed Gull
+454;Goéland de Californie;California Gull
+455;Prosthemadera novaeseelandiae;Prosthemadera novaeseelandiae
+456;Trogon élégant;Elegant Trogon
+457;Goéland à ailes grises;Glaucous-winged Gull
+458;Trogon citreolus;Trogon citreolus
+459;Guillemot colombin;Pigeon Guillemot
+460;Himantopus leucocephalus;Himantopus leucocephalus
+461;Guillemot à miroir;Black Guillemot
+462;Anthornis melanura;Anthornis melanura
+463;Marabout d'Afrique;Marabou Stork
+464;Threskiornis moluccus;Threskiornis moluccus
+465;Thraupis episcopus;Thraupis episcopus
+466;Buse à queue blanche;White-tailed Hawk
+467;Sterne arctique;Arctic Tern
+468;Sterne pierregarin;Common Tern
+469;Sterne de Forster;Forster's Tern
+470;Pie-grièche grise;Great Grey Shrike
+471;Pharomachrus mocinno;Pharomachrus mocinno
+472;Sterna striata;Sterna striata
+473;Labbe parasite;Parasitic Jaeger
+474;Labbe pomarin;Pomarine Jaeger
+475;Anas gracilis;Anas gracilis
+476;Mouette tridactyle;Black-legged Kittiwake
+477;Bec-en-ciseaux noir;Black Skimmer
+478;Pingouin torda;Razorbill
+479;Macareux moine;Atlantic Puffin
+480;Macareux huppé;Tufted Puffin
+481;Merle noir;Common Blackbird
+482;Turdus plumbeus;Turdus plumbeus
+483;Merle fauve;Clay-colored Thrush
+484;Merle d'Amérique;American Robin
+485;Grive draine;Mistle Thrush
+486;Macareux rhinocéros;Rhinoceros Auklet
+487;Grive musicienne;Song Thrush
+488;Galbula ruficauda;Galbula ruficauda
+489;Jacana du Mexique;Northern Jacana
+490;Tarier pâtre;European Stonechat
+491;Huppe fasciée;Eurasian Hoopoe
+492;Quiscale rouilleux;Rusty Blackbird
+493;Plongeon du Pacifique;Pacific Loon
+494;Mimus gilvus;Mimus gilvus
+495;Passer italiae;Passer italiae
+496;Plongeon imbrin;Common Loon
+497;Plongeon catmarin;Red-throated Loon
+498;Traquet motteux;Northern Wheatear
+499;Frégate superbe;Magnificent Frigatebird
+500;Frégate du Pacifique;Great Frigatebird
+501;Faucon hobereau;Eurasian Hobby
+502;Faucon des prairies;Prairie Falcon
+503;Faucon aplomado;Aplomado Falcon
+504;Faucon pèlerin;Peregrine Falcon
+505;Falco rufigularis;Falco rufigularis
+506;Crécerelle d'Amérique;American Kestrel
+507;Strix varia;Strix varia
+508;Faucon émerillon;Merlin
+509;Gallinule poule-d'eau;Common Moorhen
+510;Paruline à calotte noire;Wilson's Warbler
+511;Grive à dos olive;Swainson's Thrush
+512;Falco novaeseelandiae;Falco novaeseelandiae
+513;Grive solitaire;Hermit Thrush
+514;Grive fauve;Veery
+515;Caracara du Nord;Northern Crested Caracara
+516;Herpetotheres cachinnans;Herpetotheres cachinnans
+517;Bruant lapon;Lapland Longspur
+518;Milvago chimachima;Milvago chimachima
+519;Cigogne blanche;White Stork
+520;Tantale d'Amérique;Wood Stork
+521;Tantale ibis;Yellow-billed Stork
+522;Merlebleu de l'Ouest;Western Bluebird
+523;Ephippiorhynchus senegalensis;Ephippiorhynchus senegalensis
+524;Urubu à tête rouge;Turkey Vulture
+525;Solitaire de Townsend;Townsend's Solitaire
+526;Cathartes burrovianus;Cathartes burrovianus
+527;Sarcoramphus papa;Sarcoramphus papa
+528;Urubu noir;Black Vulture
+529;Chouette lapone;Great Grey Owl
+530;Anastomus lamelligerus;Anastomus lamelligerus
+531;Pluvier argenté;Grey Plover
+532;Condor de Californie;California Condor
+533;Gobemouche gris;Spotted Flycatcher
+534;Gravelot kildir;Killdeer
+535;Gravelot de Wilson;Wilson's Plover
+536;Gravelot siffleur;Piping Plover
+537;Rougequeue à front blanc;Common Redstart
+538;Rougequeue noir;Black Redstart
+539;Petit Gravelot;Little Ringed Plover
+540;Eumomota superciliosa;Eumomota superciliosa
+541;Anas querquedula;Anas querquedula
+542;Échasse d'Amérique;Black-necked Stilt
+543;Huîtrier de Bachman;Black Oystercatcher
+544;Pie bavarde;Eurasian Magpie
+545;Huîtrier pie;Eurasian Oystercatcher
+546;Haematopus unicolor;Haematopus unicolor
+547;Vanneau huppé;Northern Lapwing
+548;Vanneau éperonné;Spur-winged Lapwing
+549;Vanellus armatus;Vanellus armatus
+550;Gorgebleue à miroir;Bluethroat
+551;Colombe inca;Inca Dove
+552;Avocette élégante;Pied Avocet
+553;Faisan de Colchide;Common Pheasant
+554;Pluvier bronzé;American Golden Plover
+555;Cincle d'Amérique;American Dipper
+556;Rougegorge familier;European Robin
+557;Melanerpes aurifrons;Melanerpes aurifrons
+558;Grand Gravelot;Common Ringed Plover
+559;Aigrette des récifs;Western Reef Heron
+560;Aigrette bleue;Little Blue Heron
+561;Aigrette tricolore;Tricolored Heron
+562;Aigrette neigeuse;Snowy Egret
+563;Aigrette garzette;Little Egret
+564;Aigrette sacrée;Pacific Reef Heron
+565;Monticole bleu;Blue Rock Thrush
+566;Ardea cocoi;Ardea cocoi
+567;Héron cendré;Grey Heron
+568;Grand Héron;Great Blue Heron
+569;Bihoreau gris;Black-crowned Night Heron
+570;Merle à dos roux;Rufous-backed Thrush
+571;Crabier chevelu;Squacco Heron
+572;Bihoreau violacé;Yellow-crowned Night Heron
+573;Aramides cajaneus;Aramides cajaneus
+574;Héron garde-boeufs;Western Cattle Egret
+575;Héron vert;Green Heron
+576;Porphyrio martinicus;Porphyrio martinicus
+577;Butor d'Amérique;American Bittern
+578;Cochlearius cochlearius;Cochlearius cochlearius
+579;Anhinga novaehollandiae;Anhinga novaehollandiae
+580;Anhinga d'Afrique;African Darter
+581;Melozone fusca;Melozone fusca
+582;Aigle royal;Golden Eagle
+583;Grive des bois;Wood Thrush
+584;Aphelocoma wollweberi;Aphelocoma wollweberi
+585;Accipiter striatus;Accipiter striatus
+586;Épervier d'Europe;Eurasian Sparrowhawk
+587;Autour des palombes;Northern Goshawk
+588;Aigrette roussâtre;Reddish Egret
+589;Garrot à oeil d'or;Common Goldeneye
+590;Noddi brun;Brown Noddy
+591;Chevalier grivelé;Spotted Sandpiper
+592;Héron pourpré;Purple Heron
+593;Martin-chasseur à collier blanc;Collared Kingfisher
+594;Grue blanche;Whooping Crane
+595;Échasse blanche;Black-winged Stilt
+596;Chevêchette naine;Mountain Pygmy Owl
+597;Circus approximans;Circus approximans
+598;Busard des roseaux;Western Marsh Harrier
+599;Phalacrocorax sulcirostris;Phalacrocorax sulcirostris
+600;Buse à queue barrée;Zone-tailed Hawk
+601;Héron strié;Striated Heron
+602;Platalea ajaja;Platalea ajaja
+603;Buse à queue courte;Short-tailed Hawk
+604;Grande Aigrette;Great Egret
+605;Buse de Swainson;Swainson's Hawk
+606;Perdrix rouge;Red-legged Partridge
+607;Buse à épaulettes;Red-shouldered Hawk
+608;Buse à queue rousse;Red-tailed Hawk
+609;Gravelot neigeux;Snowy Plover
+610;Chevalier errant;Wandering Tattler
+611;Chevalier semipalmé;Willet
+612;Bateleur des savanes;Bateleur
+613;Bécassine de Wilson;Wilson's Snipe
+614;Buse noire;Common Black Hawk
+615;Mouette de Bonaparte;Bonaparte's Gull
+616;Circaète Jean-le-Blanc;Short-toed Snake Eagle
+617;Chroicocephalus novaehollandiae;Chroicocephalus novaehollandiae
+618;Mouette rieuse;Black-headed Gull
+619;Mouette atricille;Laughing Gull
+620;Mouette de Franklin;Franklin's Gull
+621;Sterne fuligineuse;Sooty Tern
+622;Petite Sterne;Least Tern
+623;Sterne caspienne;Caspian Tern
+624;Sterne royale;Royal Tern
+625;Sterne huppée;Greater Crested Tern
+626;Élanion à queue blanche;White-tailed Kite
+627;Ouette d'Égypte;Egyptian Goose
+628;Streptopelia senegalensis;Streptopelia senegalensis
+629;Gerygone igata;Gerygone igata
+630;Pygargue à tête blanche;Bald Eagle
+631;Troglodyte de Latham;Grass Wren
+632;Pygargue vocifère;African Fish Eagle
+633;Harfang des neiges;Snowy Owl
+634;Ciccaba virgata;Ciccaba virgata
+635;Gélinotte huppée;Ruffed Grouse
+636;Busarellus nigricollis;Busarellus nigricollis
+637;Milan des marais;Snail Kite
+638;Milan royal;Red Kite
+639;Vautour fauve;Griffon Vulture
+640;Gobemouche noir;European Pied Flycatcher
+641;Momotus coeruliceps;Momotus coeruliceps
+642;Gravelot semipalmé;Semipalmated Plover
+643;Milan sacré;Brahminy Kite
+644;Vautour africain;White-backed Vulture
+645;Milan du Mississippi;Mississippi Kite
+646;Dives dives;Dives dives
+647;Baeolophus atricristatus;Baeolophus atricristatus
+648;Mésange bicolore;Tufted Titmouse
+649;Mésange unicolore;Oak Titmouse
+650;Bruant chanteur;Song Sparrow
+651;Tarin des aulnes;Eurasian Siskin
+652;Bergeronnette grise;White Wagtail
+653;Grimpereau brun;Brown Creeper
+654;Bucorvus leadbeateri;Bucorvus leadbeateri
+655;Pipit farlouse;Meadow Pipit
+656;Pipit farlousane;Buff-bellied Pipit
+657;Tachycineta albilinea;Tachycineta albilinea
+658;Mésange de Caroline;Carolina Chickadee
+659;Mésange à tête noire;Black-capped Chickadee
+660;Mésange de Gambel;Mountain Chickadee
+661;Mésange à dos marron;Chestnut-backed Chickadee
+662;Mésange noire;Coal Tit
+663;Chlorophanes spiza;Chlorophanes spiza
+664;Astrild ondulé;Common Waxbill
+665;Mésange bleue;Eurasian Blue Tit
+666;Pic maculé;Yellow-bellied Sapsucker
+667;Hirondelle à front blanc;American Cliff Swallow
+668;Troglodytes pacificus;Troglodytes pacificus
+669;Troglodyte des forêts;Winter Wren
+670;Moineau friquet;Eurasian Tree Sparrow
+671;Moineau domestique;House Sparrow
+672;Aphelocoma californica;Aphelocoma californica
+673;Ariane du Yucatan;Buff-bellied Hummingbird
+674;Amazilia tzacatl;Amazilia tzacatl
+675;Dicrurus adsimilis;Dicrurus adsimilis
+676;Ariane à couronne violette;Violet-crowned Hummingbird
+677;Capucin damier;Scaly-breasted Munia
+678;Tigrisoma mexicanum;Tigrisoma mexicanum
+679;Porphyrio melanotus melanotus;Porphyrio melanotus melanotus
+680;Macreuse à bec jaune;Black Scoter
+681;Bruant des plaines;Clay-colored Sparrow
+682;Amazilia rutila;Amazilia rutila
+683;Tourterelle à queue carrée;Zenaida Dove
+684;Accenteur mouchet;Dunnock
+685;Faucon crécerelle;Common Kestrel
+686;Grive à collier;Varied Thrush
+687;Colibri à gorge rubis;Ruby-throated Hummingbird
+688;Colibri à gorge bleue;Blue-throated Mountaingem
+689;Tyran olivâtre;Dusky-capped Flycatcher
+690;Paruline flamboyante;American Redstart
+691;Tyran de Wied;Brown-crested Flycatcher
+692;Zosterops lateralis;Zosterops lateralis
+693;Bruant à couronne blanche;White-crowned Sparrow
+694;Carouge à épaulettes;Red-winged Blackbird
+695;Mésange charbonnière;Great Tit
+696;Zonotrichia capensis;Zonotrichia capensis
+697;Oreothlypis peregrina;Oreothlypis peregrina
+698;Oreothlypis celata;Oreothlypis celata
+699;Oreothlypis ruficapilla;Oreothlypis ruficapilla
+700;Paruline triste;Mourning Warbler
+701;Paruline du Kentucky;Kentucky Warbler
+702;Paruline tigrée;Cape May Warbler
+703;Paruline à collier;Northern Parula
+704;Paruline à tête cendrée;Magnolia Warbler
+705;Paruline à poitrine baie;Bay-breasted Warbler
+706;Paruline à gorge orangée;Blackburnian Warbler
+707;Setophaga petechia;Setophaga petechia
+708;Paruline rayée;Blackpoll Warbler
+709;Paruline à couronne rousse;Palm Warbler
+710;Paruline des pins;Pine Warbler
+711;Paruline à croupion jaune;Myrtle Warbler
+712;Paruline à gorge jaune;Yellow-throated Warbler
+713;Campylopterus hemileucurus;Campylopterus hemileucurus
+714;Vireo cassinii;Vireo cassinii
+715;Paruline grise;Black-throated Grey Warbler
+716;Paruline de Townsend;Townsend's Warbler
+717;Paruline à tête jaune;Hermit Warbler
+718;Paruline à dos noir;Golden-cheeked Warbler
+719;Paruline à gorge noire;Black-throated Green Warbler
+720;Paruline du Canada;Canada Warbler
+721;Cardellina rubra;Cardellina rubra
+722;Geai à gorge blanche;Florida Scrub Jay
+723;Pic à tête rouge;Red-headed Woodpecker
+724;Bruant proyer;Corn Bunting
+725;Sizerin flammé;Common Redpoll
+726;Tarin des pins;Pine Siskin
+727;Thraupis abbas;Thraupis abbas
+728;Chardonneret mineur;Lesser Goldfinch
+729;Chardonneret gris;Lawrence's Goldfinch
+730;Chardonneret jaune;American Goldfinch
+731;Ibis sacré;African Sacred Ibis
+732;Gygis blanche;White Tern
+733;Hirondelle bicolore;Tree Swallow
+734;Larus dominicanus dominicanus;Larus dominicanus dominicanus
+735;Padda de Java;Java Sparrow
+736;Huîtrier d'Amérique;American Oystercatcher
+737;Verdier d'Europe;European Greenfinch
+738;Épervier de Cooper;Cooper's Hawk
+739;Viréo à tête bleue;Blue-headed Vireo
+740;Colibri à queue large;Broad-tailed Hummingbird
+741;Chroicocephalus scopulinus;Chroicocephalus scopulinus
+742;Grèbe élégant;Western Grebe
+743;Hemiphaga novaeseelandiae;Hemiphaga novaeseelandiae
+744;Mouette de Sabine;Sabine's Gull
+745;Ramphastos sulfuratus;Ramphastos sulfuratus
+746;Dacelo novaeguineae;Dacelo novaeguineae
+747;Foulque macroule;Eurasian Coot
+748;Hirundo rustica erythrogaster;Hirundo rustica erythrogaster
+749;Colibri de Costa;Costa's Hummingbird
+750;Colibri d'Anna;Anna's Hummingbird
+751;Colaptes auratus cafer;Colaptes auratus cafer
+752;Fou à pieds bleus;Blue-footed Booby
+753;Shama dayal;Oriental Magpie-Robin
+754;Colibri d'Allen;Allen's Hummingbird
+755;Colibri roux;Rufous Hummingbird
+756;Colibri lucifer;Lucifer Sheartail
+757;Bulbul des jardins;Common Bulbul
+758;Larus glaucescens Ã— occidentalis;Larus glaucescens Ã— occidentalis
+759;Aphelocoma woodhouseii;Aphelocoma woodhouseii
+760;Florisuga mellivora;Florisuga mellivora
+761;Haematopus finschi;Haematopus finschi
+762;Tétras du Canada;Spruce Grouse
+763;Colibri à gorge noire;Black-chinned Hummingbird
+764;Busard Saint-Martin;Hen Harrier
+765;Ardea alba modesta;Ardea alba modesta
+766;Tyran huppé;Great Crested Flycatcher
+767;Buse rouilleuse;Ferruginous Hawk
+768;Martinet à gorge blanche;White-throated Swift
+769;Martinet de Vaux;Vaux's Swift
+770;Martinet ramoneur;Chimney Swift
+771;Paruline à flancs marron;Chestnut-sided Warbler
+772;Pie-grièche migratrice;Loggerhead Shrike
+773;Anhinga d'Amérique;Anhinga
+774;Martin triste;Common Myna
+775;Sittelle pygmée;Pygmy Nuthatch
+776;Actophilornis africanus;Actophilornis africanus
+777;Sittelle à poitrine rousse;Red-breasted Nuthatch
+778;Sittelle torchepot;Eurasian Nuthatch
+779;Sittelle à tête brune;Brown-headed Nuthatch
+780;Martinet noir;Common Swift
+781;Étourneau sansonnet;Common Starling
+782;Paruline couronnée;Ovenbird
+783;Bergeronnette printanière;Western Yellow Wagtail
+784;Viréo aux yeux blancs;White-eyed Vireo
+785;Moqueur à long bec;Long-billed Thrasher
+786;Bécasseau sanderling;Sanderling
+787;Moqueur de Californie;California Thrasher
+788;Gallinule d'Amérique;Common Gallinule
+789;Bécasseau à échasses;Stilt Sandpiper
+790;Colibri de Rivoli;Rivoli's Hummingbird
+791;Oriole cul-noir;Black-vented Oriole
+792;Oriole jaune-verdâtre;Scott's Oriole
+793;Petite Buse;Broad-winged Hawk
+794;Bécassine des marais;Common Snipe
+795;Oriole des vergers;Orchard Oriole
+796;Bécasseau minuscule;Least Sandpiper
+797;Moqueur chat;Grey Catbird
+798;Porphyrio hochstetteri;Porphyrio hochstetteri
+799;Bécasseau de Bonaparte;White-rumped Sandpiper
+800;Phalarope de Wilson;Wilson's Phalarope
+801;Colaptes auratus auratus;Colaptes auratus auratus
+802;Melanotis caerulescens;Melanotis caerulescens
+803;Tiaris olivaceus;Tiaris olivaceus
+804;Moqueur des armoises;Sage Thrasher
+805;Bécassin à long bec;Long-billed Dowitcher
+806;Chevalier solitaire;Solitary Sandpiper
+807;Sittelle à poitrine blanche;White-breasted Nuthatch
+808;Chevalier gambette;Common Redshank
+809;Dendrocygne à ventre noir;Black-bellied Whistling Duck
+810;Dendrocygne veuf;White-faced Whistling Duck
+811;Dendrocygne fauve;Fulvous Whistling Duck
+812;Icterus abeillei;Icterus abeillei
+813;Vanellus chilensis;Vanellus chilensis
+814;Cygne trompette;Trumpeter Swan
+815;Cygne chanteur;Whooper Swan
+816;Cygne de Bewick;Tundra Swan
+817;Cygne tuberculé;Mute Swan
+818;Oriole du Nord;Baltimore Oriole
+819;Canard colvert;Mallard
+820;Canard pilet;Northern Pintail
+821;Sarcelle d'hiver;Eurasian Teal
+822;Anas cyanoptera;Anas cyanoptera
+823;Canard brun;Mottled Duck
+824;Anas discors;Anas discors
+825;Anas strepera;Anas strepera
+826;Anas clypeata;Anas clypeata
+827;Anas chlorotis;Anas chlorotis
+828;Rhipidura leucophrys;Rhipidura leucophrys
+829;Anas americana;Anas americana
+830;Garrot albéole;Bufflehead
+831;Harle huppé;Red-breasted Merganser
+832;Harle bièvre;Common Merganser
+833;Oie cendrée;Greylag Goose
+834;Oie rieuse;Greater White-fronted Goose
+835;Eider à duvet;Common Eider
+836;Rallus obsoletus;Rallus obsoletus
+837;Platycercus elegans;Platycercus elegans
+838;Macreuse brune;Velvet Scoter
+839;Milan noir;Black Kite
+840;Sterne hansel;Gull-billed Tern
+841;Ninox novaeseelandiae novaeseelandiae;Ninox novaeseelandiae novaeseelandiae
+842;Macreuse à front blanc;Surf Scoter
+843;Fuligule à bec cerclé;Ring-necked Duck
+844;Fuligule milouin;Common Pochard
+845;Fuligule morillon;Tufted Duck
+846;Courlis à long bec;Long-billed Curlew
+847;Chen caerulescens;Chen caerulescens
+848;Cama brune;Wrentit
+849;Bernache du Canada;Canada Goose
+850;Sterne élégante;Elegant Tern
+851;Branta sandvicensis;Branta sandvicensis
+852;Fuligule à tête rouge;Redhead
+853;Canard carolin;Wood Duck
+854;Harle couronné;Hooded Merganser
+855;Arlequin plongeur;Harlequin Duck
+856;Aratinga nenday;Aratinga nenday
+857;Psittacara holochlorus;Psittacara holochlorus
+858;Canard musqué;Muscovy Duck
+859;Nette rousse;Red-crested Pochard
+860;Psittacara erythrogenys;Psittacara erythrogenys
+861;Moucherolle à ventre roux;Say's Phoebe
+862;Fuligule à dos blanc;Canvasback
+863;Picoides albolarvatus;Picoides albolarvatus
+864;Paruline à ailes bleues;Blue-winged Warbler
+865;Corneille d'Alaska;Northwestern Crow
+866;Hibou moyen-duc;Long-eared Owl
+867;Corneille d'Amérique;American Crow
+868;Harelde boréale;Long-tailed Duck
+869;Chenonetta jubata;Chenonetta jubata
+870;Sterne caugek;Sandwich Tern
+871;Eolophus roseicapilla;Eolophus roseicapilla
+872;Colaptes rubiginosus;Colaptes rubiginosus
+873;Meleagris gallopavo silvestris;Meleagris gallopavo silvestris
+874;Ptiliogonys cinereus;Ptiliogonys cinereus
+875;Milan à queue fourchue;Swallow-tailed Kite
+876;Chardonneret élégant;European Goldfinch
+877;Cassiculus melanicterus;Cassiculus melanicterus
+878;Dendragapus fuliginosus;Dendragapus fuliginosus
+879;Orite buissonnière;American Bushtit
+880;Orite à longue queue;Long-tailed Tit
+881;Zosterops lateralis lateralis;Zosterops lateralis lateralis
+882;Haliaeetus leucogaster;Haliaeetus leucogaster
+883;Guillemot de Troïl;Common Murre
+884;Tringa semipalmata inornatus;Tringa semipalmata inornatus
+885;Alouette des champs;Eurasian Skylark
+886;Cochevis huppé;Crested Lark
+887;Hirondelle de fenêtre;Common House Martin
+888;Paruline vermivore;Worm-eating Warbler
+889;Hylocharis leucotis;Hylocharis leucotis
+890;Moqueur polyglotte;Northern Mockingbird
+891;Gymnorhina tibicen;Gymnorhina tibicen
+892;Martin-pêcheur d'Europe;Common Kingfisher
+893;Streptopelia chinensis;Streptopelia chinensis
+894;Jaseur d'Amérique;Cedar Waxwing
+895;Jaseur boréal;Bohemian Waxwing
+896;Tadorne de Belon;Common Shelduck
+897;Petroica australis australis;Petroica australis australis
+898;Amazona autumnalis;Amazona autumnalis
+899;Tétras sombre;Dusky Grouse
+900;Troglodyte des canyons;Canyon Wren
+901;Tadorne casarca;Ruddy Shelduck
+902;Troglodyte des cactus;Cactus Wren
+903;Campylorhynchus rufinucha;Campylorhynchus rufinucha
+904;Rhipidura fuliginosa;Rhipidura fuliginosa
+905;Gobemoucheron à queue noire;Black-tailed Gnatcatcher
+906;Pelecanus occidentalis carolinensis;Pelecanus occidentalis carolinensis
+907;Tohi d'Abert;Abert's Towhee
+908;Melozone crissalis;Melozone crissalis
+909;Troglodyte de Caroline;Carolina Wren
+910;Buse de Harris;Harris's Hawk
+911;Anas platyrhynchos domesticus;Anas platyrhynchos domesticus
+912;Troglodytes aedon;Troglodytes aedon
+913;Buteo lineatus elegans;Buteo lineatus elegans
+914;Thamnophilus doliatus;Thamnophilus doliatus
+915;Troglodyte de Bewick;Bewick's Wren
+916;Tadorna variegata;Tadorna variegata
+917;Paruline ardoisée;Slate-throated Whitestart
+918;Phalacrocorax varius varius;Phalacrocorax varius varius
+919;Paruline à ailes blanches;Painted Whitestart
+920;Larus argentatus smithsonianus;Larus argentatus smithsonianus
+921;Paruline hochequeue;Louisiana Waterthrush
+922;Sula granti;Sula granti
+923;Ara macao;Ara macao
+924;Peucaea ruficauda;Peucaea ruficauda
+925;Bécasseau rousset;Buff-breasted Sandpiper
+926;Flamant rose;Greater Flamingo
+927;Fou de Bassan;Northern Gannet
+928;Pelecanus occidentalis californicus;Pelecanus occidentalis californicus
+929;Chevêchette brune;Ferruginous Pygmy Owl
+930;Érismature rousse;Ruddy Duck
+931;Tyran à gorge cendrée;Ash-throated Flycatcher
+932;Martin-pêcheur vert;Green Kingfisher
+933;Sturnelle de l'Ouest;Western Meadowlark
+934;Ramphastos ambiguus;Ramphastos ambiguus
+935;Paroaria coronata;Paroaria coronata
+936;Buse variable;Common Buzzard
+937;Tyran tigré;Sulphur-bellied Flycatcher
+938;Pioui de l'Ouest;Western Wood Pewee
+939;Corneille noire;Carrion Crow
+940;Cyanoramphus novaezelandiae;Cyanoramphus novaezelandiae
+941;Pioui de l'Est;Eastern Wood Pewee
+942;Moucherolle de Coues;Greater Pewee
+943;Moucherolle à côtés olive;Olive-sided Flycatcher
+944;Goéland argenté;European Herring Gull
+945;Martin-chasseur de Smyrne;White-throated Kingfisher
+946;Onychognathus morio;Onychognathus morio
+947;Évêque paré;Blue Bunting
+948;Troglodyte des marais;Marsh Wren
+949;Effraie des clochers;Western Barn Owl
+950;Trogon caligatus;Trogon caligatus
+951;Corvus monedula;Corvus monedula
+952;Corneille de rivage;Fish Crow
+953;Spheniscus demersus;Spheniscus demersus
+954;Corbeau freux;Rook
+955;Corbeau familier;House Crow
+956;Bernache cravant;Brant Goose
+957;Goéland bourgmestre;Glaucous Gull
+958;Columba livia domestica;Columba livia domestica
+959;Geai des chênes;Eurasian Jay
+960;Anser anser domesticus;Anser anser domesticus
+961;Mitrephanes phaeocercus;Mitrephanes phaeocercus
+962;Puffin à pieds roses;Pink-footed Shearwater
+963;Puffin majeur;Great Shearwater
